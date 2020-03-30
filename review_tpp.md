@@ -9,3 +9,9 @@
 - 1.10: community standards and expectations. Pretty cool
 - 1.11: organizing the code to group ideas together
 - 1.12: make: Pretty cool
+
+## Chap 02
+- statusoutput, getoutput. Pretty cool
+- test.py: test_vowel_upper() should be test_vowel_title()
+- 1.1.1: Typo in the point number 2
+- maybe capitalize() could be better than title() in test.py
