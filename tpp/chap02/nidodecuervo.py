@@ -6,8 +6,8 @@ What    : Argumento de posicion
 """
 
 import argparse
-import os
-import sys
+# import os
+# import sys
 
 
 # --------------------------------------------------
@@ -20,56 +20,20 @@ def get_args():
 
     parser.add_argument('palabra',
                         metavar='palabra',
-                        help='A positional argument')
-
-    # parser.add_argument('-a',
-    #                     '--arg',
-    #                     help='A named string argument',
-    #                     metavar='str',
-    #                     type=str,
-    #                     default='')
-    #
-    # parser.add_argument('-i',
-    #                     '--int',
-    #                     help='A named integer argument',
-    #                     metavar='int',
-    #                     type=int,
-    #                     default=0)
-    #
-    # parser.add_argument('-f',
-    #                     '--file',
-    #                     help='A readable file',
-    #                     metavar='FILE',
-    #                     type=argparse.FileType('r'),
-    #                     default=None)
-    #
-    # parser.add_argument('-o',
-    #                     '--on',
-    #                     help='A boolean flag',
-    #                     action='store_true')
+                        help='Una sola palabra')
 
     return parser.parse_args()
 
 
 # --------------------------------------------------
 def main():
-    """Make a jazz noise here"""
+    """Dale y corre tu codigo"""
 
     args = get_args()
-    palabra = args.palabra
-    # str_arg = args.arg
-    # int_arg = args.int
-    # file_arg = args.file
-    # flag_arg = args.on
-    # pos_arg = args.positional
+    pal = args.palabra
+    articulo = 'an' if pal[0].lower() in 'aeiou' else 'a'
 
-    # print('str_arg = "{}"'.format(str_arg))
-    # print('int_arg = "{}"'.format(int_arg))
-    # print('file_arg = "{}"'.format(file_arg.name if file_arg else ''))
-    # print('flag_arg = "{}"'.format(flag_arg))
-    # print('positional = "{}"'.format(pos_arg))
-
-    print(palabra)
+    print(f'Ahoy, Capitan, {articulo} {pal} off the larboard bow!')
 
 
 # --------------------------------------------------
