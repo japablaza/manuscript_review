@@ -7,13 +7,13 @@ from subprocess import getstatusoutput, getoutput
 archivo = './nidodecuervo.py'
 
 consonantes = ['brigatine', 'clipper', 'dreadnought', 'frogate', 'galleon',
-               ' haddock', 'junk', 'ketch', 'longbopat', 'mullet', 'narwhal',
+               'haddock', 'junk', 'ketch', 'longbopat', 'mullet', 'narwhal',
                'porpoise', 'quay', 'regatta', 'submarine', 'tanker', 'vessel',
                'whale', 'xebec', 'yatch', 'zebrafish']
 
 vocales = ['aviso', 'eel', 'iceberg', 'octupus', 'upbound']
 
-oracion = 'Ahoy, Captain, {} {} off the larboard bow!'
+oracion = 'Ahoy, Capitan, {} {} off the larboard bow!'
 
 
 def test_existe():
