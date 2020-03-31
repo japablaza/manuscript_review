@@ -1,4 +1,7 @@
-# Review Tiny Python Projects
+# Review TPP
+
+## Summary
+- I would prefer to start with the Appendix and the Chap01
 
 ## Chap 01
 - test_ shows multiple variable assignments. Pretty cool
@@ -17,4 +20,9 @@
 - maybe capitalize() could be better than title() in test.py
 - If expression. Pretty cool
 - 1.3.1: Hard to understand the 'return parser.parse_args()'
-- 
+
+## Chap03
+- Using 'assert'. Pretty cool.
+- 1.1: nargs='+' 'One or more of the same positional arguments Chapter 2' is should be Apendix A.4.5
+- 1.3.7: list.sort() and sorted
+- Hints: nargs is part of Apendix A.4.5
