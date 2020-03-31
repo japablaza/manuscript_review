@@ -15,3 +15,6 @@
 - test.py: test_vowel_upper() should be test_vowel_title()
 - 1.1.1: Typo in the point number 2
 - maybe capitalize() could be better than title() in test.py
+- If expression. Pretty cool
+- 1.3.1: Hard to understand the 'return parser.parse_args()'
+- 
