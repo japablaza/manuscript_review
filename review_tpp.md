@@ -1,7 +1,10 @@
 # Review TPP
 
 ## Summary
-- I would prefer to start with the Appendix and the Chap01
+- I would prefer to start with the Appendix rather than Chap01
+- The test suite give you a nice path to achieve the purpose of the program
+- Pattern repeated in the book. Good for a module
+- Chap 02 and 03 need the right numbering
 
 ## Chap 01
 - test_ shows multiple variable assignments. Pretty cool
@@ -21,8 +24,18 @@
 - If expression. Pretty cool
 - 1.3.1: Hard to understand the 'return parser.parse_args()'
 
-## Chap03
+## Chap 03
 - Using 'assert'. Pretty cool.
-- 1.1: nargs='+' 'One or more of the same positional arguments Chapter 2' is should be Apendix A.4.5
+- 1.1: nargs='+' 'One or more of the same positional arguments Chapter 2' is should be Appendix A.4.5
 - 1.3.7: list.sort() and sorted
-- Hints: nargs is part of Apendix A.4.5
+- Hints: nargs is part of Appendix A.4.5
+
+## Chap 04
+-
+
+## Chap 05
+-
+
+## Chap 06
+- 6.1.1: In the last paragraph 'File arguments' is not from Chapter 2
+- 
