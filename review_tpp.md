@@ -80,4 +80,9 @@
 - MapReduce" algorithm
 
 ## Chap 13
+- algotithm
+- pylint, flake8, and mypy
+- for loop --> list comprehension --> map
+ 
+## Chap 14
 - 
