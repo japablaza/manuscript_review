@@ -38,4 +38,42 @@
 
 ## Chap 06
 - 6.1.1: In the last paragraph 'File arguments' is not from Chapter 2
+
+## Chap 07
+- Pretty print
+- Dict comprehension 
+
+## Chap 08
+- list('HolaPP') . Pretty cool
+- open('file').read(). I will need more testing 
+- Iterate
+- str.replace
+- str.translate
+- list comprehension
+- list comprehension with function
+- map function (lamdda)
+- regular expresion (re)
+
+## Chap 09
+- parser.error
+- random 
+- Can we use a file with the nouns and adjectives instead? SUGGESTION --> Done in the Going Further
+- (_) throwaway value
+- 
+
+## Chap 10
+- string.ascii_lowercase. Pretty cool
+- insertion-deletions
+
+## Chap 11
+- README.md and second paragraph are incorrect. -n or --num down to 0 or 1?
+- Reverser number with list: reversed(range(x,y)) or range(x,y,-1)
+- TDD: test-driven development
+- consider a `function` to be a `unit`
+- LOC=Lines of Code
+- Book: Kent Beck (2002) `TestDriven Development`
+- `binary` decision
+- 1.8: typo in the range sentence
+
+## Chap 12
 - 
