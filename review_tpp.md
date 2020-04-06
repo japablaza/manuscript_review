@@ -76,4 +76,8 @@
 - 1.8: typo in the range sentence
 
 ## Chap 12
+- random module
+- MapReduce" algorithm
+
+## Chap 13
 - 
