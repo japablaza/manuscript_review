@@ -85,4 +85,10 @@
 - for loop --> list comprehension --> map
  
 ## Chap 14
+- Regular expresions (regexes)
+- help(re)
+- higher-order function (HOF)
+- `for loop`, `list comprehension`, or `lambda filter`
+
+## Chap 15
 - 
