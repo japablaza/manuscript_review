@@ -91,4 +91,10 @@
 - `for loop`, `list comprehension`, or `lambda filter`
 
 ## Chap 15
+- regular expresions
+- experimentation first and then the solution. Pretty good
+- list comprehension and map. Pretty good
+- awk
+
+## Chap 16
 - 
