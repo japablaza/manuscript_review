@@ -101,4 +101,8 @@
 - regex can make your programs incredibly flexible and useful.
 
 ## Chap 17
+- regular expresions
 - 
+
+## Chap 18
+-
