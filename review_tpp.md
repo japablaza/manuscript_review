@@ -97,4 +97,8 @@
 - awk
 
 ## Chap 16
+- regular expresions
+- regex can make your programs incredibly flexible and useful.
+
+## Chap 17
 - 
