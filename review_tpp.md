@@ -109,4 +109,6 @@
 - tokenization: use regex to split line into words
 
 ## Chap 19
-- 
+- Using the code in the python interpreter V/S Visual Studio Code
+- 1.1.2: reopening csv file with python interpreter. No gaps in the 'break this down' with `open`. Pretty good
+-  
