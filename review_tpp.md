@@ -105,4 +105,8 @@
 - 
 
 ## Chap 18
--
+- Natural Language Processing (NLP)
+- tokenization: use regex to split line into words
+
+## Chap 19
+- 
