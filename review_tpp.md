@@ -114,4 +114,8 @@
 - zip function 
 
 ## Chap 20
+- I do not see the need for this chapter 
+
+## Chap 21
+- Mutual Assured Destruction (MAD)
 - 
