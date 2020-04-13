@@ -6,7 +6,16 @@
 - Pattern repeated in the book. Good for a module
 - Chap 02 and 03 need the right numbering
 
+## Appendix
+- argparse
+- nargs = '2' --> 2 arguments
+- nargs = '+' --> 1 or more
+- nargs = '*' --> zero or more
+- nargs ='?' --> zero or one
+
 ## Chap 01
+- aregparse
+- pytest, $PATH, yapf, black, flake8, and pylint
 - test_ shows multiple variable assignments. Pretty cool
 - out.trip() == 'Hello, Worlds!'. Pretty cool
 - 1.7: Typo 'reaons'
@@ -18,6 +27,8 @@
 
 ## Chap 02
 - statusoutput, getoutput. Pretty cool
+- subprocess
+- f-string or str.format
 - test.py: test_vowel_upper() should be test_vowel_title()
 - 1.1.1: Typo in the point number 2
 - maybe capitalize() could be better than title() in test.py
@@ -25,18 +36,25 @@
 - 1.3.1: Hard to understand the 'return parser.parse_args()'
 
 ## Chap 03
+- Oxford comma
+- List: `item = list()` or `item =[]`
+- assert
+- action = 'store-true'
 - Using 'assert'. Pretty cool.
 - 1.1: nargs='+' 'One or more of the same positional arguments Chapter 2' is should be Appendix A.4.5
 - 1.3.7: list.sort() and sorted
 - Hints: nargs is part of Appendix A.4.5
 
 ## Chap 04
--
+- dict()
 
 ## Chap 05
--
+- stdout
 
 ## Chap 06
+- stdin.format
+- sys.stdin
+- sys.stdout
 - 6.1.1: In the last paragraph 'File arguments' is not from Chapter 2
 
 ## Chap 07
